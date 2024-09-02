@@ -1,7 +1,6 @@
 # PRODIGY_CS_01
 
-CIPHERX RAB
-Caesar Cipher Tool
+CIPHERX RAB (Caesar Cipher Tool)
 
 This is a simple yet functional Caesar Cipher tool written in Python, designed for both encryption and decryption of messages using the classic Caesar Cipher technique.
 
@@ -24,8 +23,6 @@ How It Works
 Usage
 
 To use the tool, simply run the script, follow the prompts to enter your message and shift value, and choose whether to encrypt or decrypt the message.
-
-bash
 
 python caesar_cipher_tool.py
 
