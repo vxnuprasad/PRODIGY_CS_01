@@ -10,7 +10,7 @@ banner = """
 ░╚════╝░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░
 """
 print(banner)
-print("----------------------------------- Caesar Cipher Tool By techno-rabit -----------------------------------")
+print("----------------- Caesar Cipher Tool By techno-rabit -----------------")
 print("")
 
 def analyze_message(message):
