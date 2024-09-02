@@ -24,8 +24,9 @@ User-Friendly Interface: Prompts for user actions and provides feedback on input
 
 To use the tool, simply run the script, follow the prompts to enter your message and shift value, and choose whether to encrypt or decrypt the message.
 
-* `python caesar_cipher_tool.py`
-
+```sh
+python caesar_cipher_tool.py`
+```
 ## Contributions
 
 If you find this tool useful, consider following [techno-rabit](https://github.com/techno-rabit) on GitHub!
