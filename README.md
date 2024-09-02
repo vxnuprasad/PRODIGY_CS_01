@@ -1,8 +1,16 @@
 # PRODIGY_CS_01
 
-CIPHERX RAB (Caesar Cipher Tool)
+<p align="center">
+<a href="#"><img title="Img_1" src="Img_1.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/techno-rabit"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://prodigyinfotech.dev/"><img title="Website" src="https://img.shields.io/badge/Website-Prodigy--InfoTech-green.svg?style=for-the-badge&logo=sites"></a>
+</p>
 
-This is a simple yet functional Caesar Cipher tool written in Python, designed for both encryption and decryption of messages using the classic Caesar Cipher technique.
+# CIPHERX RAB ( Caesar Cipher Tool )
+
+This Python-based Caesar Cipher tool efficiently handles both encryption and decryption of messages using the traditional Caesar Cipher method. It was developed as part of my internship at Prodigy Infotech.
 
 ## Features
 
@@ -20,13 +28,21 @@ User-Friendly Interface: Prompts for user actions and provides feedback on input
 ### 5. Processing: The program performs the Caesar Cipher encryption or decryption based on the user’s choice.
 ### 6. Output: Displays the result of the encryption or decryption.
 
+<p align="center">
+<a href="#"><img title="Img_2" src="img_2.png"></a>
+</p>
+
 ## Usage
 
 To use the tool, simply run the script, follow the prompts to enter your message and shift value, and choose whether to encrypt or decrypt the message.
 
 ```sh
-python caesar_cipher_tool.py`
+python cipherxrab.py
 ```
 ## Contributions
 
 If you find this tool useful, consider following [techno-rabit](https://github.com/techno-rabit) on GitHub!
+
+## Find Me on :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VishnuPrasad-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/technorabit)
+[![Instagram](https://img.shields.io/badge/IG-%40__.v.shnu-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.v.shnu)
