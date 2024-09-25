@@ -36,6 +36,11 @@ User-Friendly Interface: Prompts for user actions and provides feedback on input
 
 To use the tool, simply run the script, follow the prompts to enter your message and shift value, and choose whether to encrypt or decrypt the message.
 
+Clone the Github Repositorie :
+```sh
+git clone https://github.com/techno-rabit/PRODIGY_CS_01
+```
+Run :
 ```sh
 python cipherxrab.py
 ```
