@@ -38,7 +38,7 @@ To use the tool, simply run the script, follow the prompts to enter your message
 
 Clone the Github Repositorie :
 ```sh
-git clone https://github.com/techno-rabit/PRODIGY_CS_01
+git clone https://github.com/vxnuprasad/PRODIGY_CS_01
 ```
 Run :
 ```sh
